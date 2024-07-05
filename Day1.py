@@ -12,3 +12,8 @@ print("initial" , id(point))
 point += 7,
 print("final" , id(point))
 print(point)
+#two things to note here:
+#the brackets wasnt necessary for creation of tuple and
+#actually a tuple can be updated by creating  a new variable 
+# not that we changed the initial tuple or string and 
+# still replacing initial values in the tuple or string is not possible
