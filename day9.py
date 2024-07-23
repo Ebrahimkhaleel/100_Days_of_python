@@ -1,4 +1,4 @@
-#NU,BER GUESSING GAME
+#NUMBER GUESSING GAME
 #importing the random module
 import random
 #collecting user input
