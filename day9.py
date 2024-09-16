@@ -20,6 +20,7 @@ guesses=0
 
 while True:
     guesses +=1
+
     guess=input('enter your guess: ')
     if guess.isdigit():
     #coverting our input to integer 
